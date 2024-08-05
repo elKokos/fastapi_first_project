@@ -1,0 +1,5 @@
+tasks.db
+bin
+include
+lib
+pyvenv.cfg
